@@ -1,0 +1,1 @@
+This is where I will keep my exercises from the statistics module.
